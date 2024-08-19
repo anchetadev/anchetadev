@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angel Ancheta
 =====================================================================================================================================
 
-Sr Instructional Designer
+Instructional Designer
 -----------------------
 
 My ideal problem statement is a blend of technical and non-technical problems. I am a chaos coordinator at heart and am always seeking an interesting, relevant, and impactful challenge. Please check out my [User Manual](https://gist.github.com/anchetadev/9f5f64b86d34a411d27b1c9736f7667c)!
