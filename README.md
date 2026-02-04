@@ -7,7 +7,7 @@ Instructional Designer
 My ideal problem statement is a blend of technical and non-technical problems. I am a chaos coordinator at heart and am always seeking an interesting, relevant, and impactful challenge. Please check out my [User Manual](https://gist.github.com/anchetadev/9f5f64b86d34a411d27b1c9736f7667c)!
 
 * 🌍  I'm based in Riverside County, CA
-* 🖥️  See my portfolio at [my personal website](http://angelancheta.com)
+* 🖥️  See my portfolio at [my personal website](https://angelancheta.info)
 * ✉️  You can contact me at [anchetadev@gmail.com](mailto:anchetadev@gmail.com)
 * 🤝  I'm open to collaborating on something totally novel that needs a novel solution
 * ⚡  I am always looking for new conversations with new people. Don't be shy hmu 🫣
